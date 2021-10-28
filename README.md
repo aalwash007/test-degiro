@@ -7,7 +7,7 @@ products.
 
 
 
-DeGiro is Europe's fastest growing online stockbroker. DeGiro distinguishes itself by offering institutional
+DeGiro is Europe's fastest growing online stockbroker (for now). DeGiro distinguishes itself by offering institutional
 fees to retail investors.
 
 :warning: DeGiro could change their API at any moment, if something is not working, please open an issue.
